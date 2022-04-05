@@ -1,7 +1,7 @@
 Hello World,
 
-Neste projeto inicio com a construção de uma API na porta 8000
-Aonde temos as seguintes funções adicionadas
+Neste projeto inicio com a construção de uma API em NODE.JS na porta 8000
+Aonde temos as seguintes funcionalidades
 
 Get
 http://localhost:8000/
